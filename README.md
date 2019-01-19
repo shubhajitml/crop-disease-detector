@@ -6,8 +6,8 @@ Dataset is consisted of **38** disease classes from [PlantVillage](https://plant
 <br/>
 **80%** of the dataset is used for training and **20%** for validation.
 
-**Citation:** If using any part of this repo, please cite:
-1. [Plant Village Dataset Paper](`http://arxiv.org/abs/1511.08060`)
+**Citation:** When using any part of this repo, please cite:
+1. [`Plant Village Dataset Paper`](http://arxiv.org/abs/1511.08060)
 2. [Deep Learning for Plant Diseases: Detection and Saliency Map Visualisation](https://link.springer.com/chapter/10.1007/978-3-319-90403-0_6):
 ```
 @Inbook{Brahimi2018,
