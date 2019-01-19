@@ -6,18 +6,6 @@ Dataset is consisted of **38** disease classes from [PlantVillage](https://plant
 <br/>
 **80%** of the dataset is used for training and **20%** for validation.
 
-**Citation:** When using any part of this repo, please cite:
-1. [`Plant Village Dataset Paper`](http://arxiv.org/abs/1511.08060)
-2. [Deep Learning for Plant Diseases: Detection and Saliency Map Visualisation](https://link.springer.com/chapter/10.1007/978-3-319-90403-0_6):
-```
-@Inbook{Brahimi2018,
-  author     = "Brahimi, Mohammed and Arsenovic, Marko and Laraba, Sohaib and Sladojevic, Srdjan and Boukhalfa, Kamel and Moussaoui, Abdelouhab",
-  editor     = "Zhou, Jianlong and Chen, Fang",
-  title      = "Deep Learning for Plant Diseases: Detection and Saliency Map Visualisation",
-  bookTitle  = "Human and Machine Learning: Visible, Explainable, Trustworthy and Transparent", year="2018",
-  publisher  = "Springer International Publishing",
-  address    = "Cham",
-  pages      = "93--117",
-  url        = "https://doi.org/10.1007/978-3-319-90403-0_6"
-}
-```
+**Citation:** <br/>
+When using any part of this repo, please cite:
+[`Plant Village Dataset Paper`](http://arxiv.org/abs/1511.08060)
