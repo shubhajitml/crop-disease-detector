@@ -1,19 +1,7 @@
-# crop-disease_detector-app
+# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
+This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
 
-Production ready starter pack for creating fast responsive Web App for Fast.AI Image models using Starlette.io framework with Uvicorn ASGI server.
+The sample app described here is up at https://fastai-v3.app.render.com. Test it out with bear images!
 
-Everything packaged in docker with requirement.txt, so you can push it to any docker hosted cloud service. Enjoy :)
-
-Few dockers hosted services where this starter pack will work =>
-
-
-* https://render.com
-* https://zeit.co/now
-* https://azure.microsoft.com/en-us/services/app-service/containers/
-* https://getcarina.com/
-* https://sloppy.io/en/
-* https://giantswarm.io
-* https://aws.amazon.com/ecs/
-* https://cloud.google.com/cloud-build/docs/
-* https://www.digitalocean.com/products/one-click-apps/docker/
+The guide for production deployment to Render is at https://course-v3.fast.ai/deployment_render.html.
