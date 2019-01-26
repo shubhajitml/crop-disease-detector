@@ -1,6 +1,12 @@
 body {
     background-color: #fff;
 }
+.sideimage {
+    position: fixed;
+    bottom: 15;
+    left: 20;
+    background-color: #ffffff;
+}
 
 .no-display {
     display: none;
