@@ -1,5 +1,5 @@
-# [Plant Disease Detection](https://which-crop-disease.app.render.com)
-**Deployment: [Plant disease detector webApp](https://which-crop-disease.app.render.com/)** <br/>
+# [Crop Disease Detection](https://which-crop-disease.app.render.com)
+**Deployment: [Crop disease detector webApp](https://which-crop-disease.app.render.com/)** <br/>
 Trained `resnet-50` for plant disease finegrained classification task using fastai. <br/>
 Models are trained on the preprocessed dataset which can be downloaded [here](https://drive.google.com/open?id=0B_voCy5O5sXMTFByemhpZllYREU).<br/>
 Dataset is consisted of **38** disease classes from [PlantVillage](https://plantvillage.org/) dataset and **1** background class from Stanford's open dataset of background images - [DAGS](http://dags.stanford.edu/projects/scenedataset.html).
