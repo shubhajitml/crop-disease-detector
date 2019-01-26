@@ -12,11 +12,11 @@ When using any part of this repo, please cite:
 
 **Dataset Description:**
 
-|Name      | No of Classes  | Class Names
-| ------------- |:-------------:|:-----------------:|:-------------:|
+|Name           | No of Classes | Class Names
+| ------------- |:-------------:|:-----------------:|
 | Apple     |     04        | 'Apple___Apple_scab','Apple___Black_rot','Apple___Cedar_apple_rust','Apple___healthy' |
 | Blueberry |     01        | 'Blueberry___healthy' |
-| Cherry    |     02        | 'Cherry_(including_sour)___Powdery_mildew', 'Cherry_(including_sour)___healthy' |
+| Cherry    |     02        | 'Cherry_(including_sour)_Powdery_mildew', 'Cherry_(including_sour)_healthy' |
 | Corn      |     04        | 'Corn___Cercospora_leaf_spot', 'Corn___Common_rust','Corn___Northern_Leaf_Blight','Corn___healthy' |
 | Grape     |     04        | 'Grape___Black_rot','Grape___Esca_(Black_Measles)','Leaf_blight_(Isariopsis_Leaf_Spot)','Grape___healthy' |
 | Orange    |     01        | 'Orange___Haunglongbing_(Citrus_greening)' |
