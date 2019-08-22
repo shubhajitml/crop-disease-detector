@@ -1,10 +1,14 @@
 # [Crop Disease Detection](https://which-crop-disease.app.render.com)
-**Deployment: [Crop disease detector webApp](https://which-crop-disease.app.render.com/)** <br/>
+## [Training](https://github.com/shubhajitml/crop-disease-detector/blob/master/notebook/plant_village.ipynb)
 Trained `resnet-50` for plant disease finegrained classification task using fastai. <br/>
 Models are trained on the preprocessed dataset which can be downloaded [here](https://drive.google.com/open?id=0B_voCy5O5sXMTFByemhpZllYREU).<br/>
 Dataset is consisted of **38** disease classes from [PlantVillage](https://plantvillage.org/) dataset and **1** background class from Stanford's open dataset of background images - [DAGS](http://dags.stanford.edu/projects/scenedataset.html).
 <br/>
 **80%** of the dataset is used for training and **20%** for validation.
+
+## [Demo WebApp](https://which-crop-disease.app.render.com)
+[<p><img src='app/which-crop-disease.jpg'/></p>](https://which-crop-disease.app.render.com)
+
 
 **Citation:** <br/>
 When using any part of this repo, please cite:
